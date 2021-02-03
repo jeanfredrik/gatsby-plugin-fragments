@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-fragments",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Gatsby plugin that makes it easier to work with GraphQL fragments",
   "main": "index.js",
   "repository": "git@github.com:jeanfredrik/gatsby-plugin-fragments.git",
