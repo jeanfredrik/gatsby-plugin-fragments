@@ -457,13 +457,12 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gatsby-util-fragments-extractor@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-util-fragments-extractor/-/gatsby-util-fragments-extractor-1.1.0.tgz#5382fa009701f64026a6dee656991cb42a38894e"
-  integrity sha512-Qq3CgiF2MjwA+dYI3IsEX2tMCJ/zlwMY4JS9h5VkLtD1LFjvSV11aHCa8VvZByAea1SVYNg88NpI0hqyVTlAGg==
+gatsby-util-fragments-extractor@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/gatsby-util-fragments-extractor/-/gatsby-util-fragments-extractor-1.1.2.tgz#ebb1eec046d8687da140900244d24afb73a5a274"
+  integrity sha512-ilX2Ju3heK+uIHSNljTgQNaCVqBh/GLfE/Lgj2909nluWi5RLsnnhDK09ZdmAPTcPCyASP1DtvMo0G87FZtN5g==
   dependencies:
     glob "^7.1.6"
-    graphql "^15.4.0"
     graphql-tag "^2.11.0"
     lodash "^4.17.20"
     tagged-template-noop "^2.1.1"
@@ -504,11 +503,6 @@ graphql-tag@^2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.11.0.tgz#1deb53a01c46a7eb401d6cb59dec86fa1cccbffd"
   integrity sha512-VmsD5pJqWJnQZMUeRwrDhfgoyqcfwEkvtpANqcoUG8/tOLkwNgU9mzub/Mc78OJMhHjx7gfAMTxzdG43VGg3bA==
-
-graphql@^15.4.0:
-  version "15.5.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.5.0.tgz#39d19494dbe69d1ea719915b578bf920344a69d5"
-  integrity sha512-OmaM7y0kaK31NKG31q4YbD2beNYa6jBBKtMFT6gLYJljHLJr42IqJ8KX08u3Li/0ifzTU5HjmoOOrwa5BRLeDA==
 
 has-flag@^3.0.0:
   version "3.0.0"

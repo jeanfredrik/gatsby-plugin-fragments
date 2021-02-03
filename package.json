@@ -15,6 +15,6 @@
     "format": "prettier --write '**/*.{js,json,md,yml}'"
   },
   "dependencies": {
-    "gatsby-util-fragments-extractor": "^1.1.0"
+    "gatsby-util-fragments-extractor": "1.1.2"
   }
 }
