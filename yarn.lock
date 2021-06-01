@@ -457,10 +457,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gatsby-util-fragments-extractor@1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/gatsby-util-fragments-extractor/-/gatsby-util-fragments-extractor-1.1.2.tgz#ebb1eec046d8687da140900244d24afb73a5a274"
-  integrity sha512-ilX2Ju3heK+uIHSNljTgQNaCVqBh/GLfE/Lgj2909nluWi5RLsnnhDK09ZdmAPTcPCyASP1DtvMo0G87FZtN5g==
+gatsby-util-fragments-extractor@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/gatsby-util-fragments-extractor/-/gatsby-util-fragments-extractor-1.1.3.tgz#0392716a217ca8850817d1c9c2b2035f6e8f8b5a"
+  integrity sha512-gjCmFQKY5EjbA+M6ROba/FVDdDtX+pImW9BI8d4pFrTszXmGpT0kcRawHplRRmkiEJGzH4/hJz31UsPyK+nq4g==
   dependencies:
     glob "^7.1.6"
     graphql-tag "^2.11.0"
